@@ -1,10 +1,1 @@
-yaml                                                                                                                                                                                   proxies:
-  - name: "美国-IEPL-G1-1"
-    type: vmess
-    server: ocean.iepl.mlinuu.top
-    port: 3505
-    uuid: "92d5e6ca-800a-3fdd-b7f3-b0e902e305cf"
-    alterId: 1
-    cipher: auto
-    network: tcp
-    tls: false
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6OTJkNWU2Y2EtODAwYS0zZmRkLWI3ZjMtYjBlOTAyZTMwNWNmQG9jZWFuLmllcGwubWxpbnV1LnRvcDozNTA1?remarks=%E7%BE%8E%E5%9B%BD-IEPL-G1-1&obfs=none&alterId=1
