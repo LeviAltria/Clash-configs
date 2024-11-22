@@ -1,4 +1,4 @@
-proxies:
+yaml                                                                                                                                                                                   proxies:
   - name: "美国-IEPL-G1-1"
     type: vmess
     server: ocean.iepl.mlinuu.top
